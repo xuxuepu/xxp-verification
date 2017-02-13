@@ -1,0 +1,19 @@
+{
+  "name": "xxp-verification",
+  "version": "1.0.0",
+  "description": "正则校验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxuepu/xxp-verification.git"
+  },
+  "author": "epo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxuepu/xxp-verification/issues"
+  },
+  "homepage": "https://github.com/xuxuepu/xxp-verification#readme"
+}
