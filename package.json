@@ -1,6 +1,6 @@
 {
   "name": "xxp-verification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "正则校验",
   "main": "index.js",
   "scripts": {
